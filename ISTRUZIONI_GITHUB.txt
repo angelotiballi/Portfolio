@@ -1,0 +1,26 @@
+PORTFOLIO GEOM. ANGELO TIBALLI — VERSIONE 34
+
+IMPORTANTE: questa versione aggiunge schede FOTO, VIDEO e APPROFONDIMENTO per tutti i sette progetti.
+Il sito online non viene aggiornato automaticamente: occorre sostituire i file nel repository GitHub.
+
+COME AGGIORNARE:
+1. Apri https://github.com/angelotiballi/Portfolio
+2. Clicca Add file > Upload files.
+3. Apri sul computer la cartella estratta da questo ZIP.
+4. Trascina TUTTI i file della cartella sul caricamento (non lo ZIP).
+5. GitHub riconoscerà i file con lo stesso nome: conferma Commit changes.
+6. Attendi che GitHub Pages aggiorni il sito; apri https://angelotiballi.github.io/Portfolio/ e premi Ctrl+F5.
+7. Apri un progetto; nella pagina cerca la sezione Fotografie e video e prova entrambi i collegamenti.
+
+Se nel caricamento GitHub compare un errore di conflitto, torna alla pagina del repository e ricarica.
+Non pubblicare documenti riservati, disegni di cantiere o foto non autorizzate.
+
+NOTE SUI VIDEO:
+- West Gate Tunnel: video generale dedicato a Melbourne's West, include West Gate Tunnel.
+- Barwon Heads Road: video della pista ciclopedonale Stage 1; disponibile anche aggiornamento Stage 2 (fase successiva).
+- Geelong Rail: filmato sorvolo del tracciato nella pagina ufficiale (scorrere fino al player).
+- Golden Plains: video del progetto sul sito del parco; video CEFC prima torre completata.
+- G8 La Maddalena: servizio giornalistico dello stato successivo del complesso, NON filmato dei lavori di costruzione.
+- PSCA: video tecnico-didattico e immagini illustrative delle subdivision, NON materiali dei cantieri del candidato.
+
+Le fotografie e i video restano sui siti dei rispettivi titolari; non sono copiati dentro questo archivio.
